@@ -1,0 +1,18 @@
+# Archivos y directorios de Visual Studio
+.vs/
+*.vscode/
+.idea/
+
+# Carpetas de compilación
+bin/
+obj/
+
+# Archivos de configuración locales
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Otros archivos
+.DS_Store
+Thumbs.db

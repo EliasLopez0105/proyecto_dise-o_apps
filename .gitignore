@@ -1,0 +1,18 @@
+# Ignorar archivos de configuración de Visual Studio
+.vs/
+*.vscode/
+.idea/
+
+# Ignorar carpetas de compilación
+bin/
+obj/
+
+# Ignorar archivos de configuración locales
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Otros archivos
+.DS_Store
+Thumbs.db
